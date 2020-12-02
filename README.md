@@ -21,3 +21,6 @@ I had to change the **package.json** to add this line of comand to make it possi
 ```sh
 "start": "serve -s build"
 ```
+
+Also, you need to change the **baseURL** inside the **http-common.js** to the
+actual API address.
