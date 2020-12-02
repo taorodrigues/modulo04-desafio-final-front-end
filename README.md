@@ -1,4 +1,4 @@
-# Modulo 04 - Desafio Final BACKEND
+# Modulo 04 - Desafio Final FRONTEND
 
 **Website** to allow the user to create, update, read and delete grades for students.
 
