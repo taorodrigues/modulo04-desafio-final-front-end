@@ -12,3 +12,12 @@ To install the website dependencies:
 $ yarn
 $ yarn start
 ```
+
+### Package to Deploy React
+
+I am using the **serve** package to deploy a react app to heroku.
+I had to change the **package.json** to add this line of comand to make it possible.
+
+```sh
+"start": "serve -s build"
+```
